@@ -1,6 +1,5 @@
-# amrit_rep
-
-A new Flutter project.
+# Academic Paper Fetcher – Amrita University
+A flutter application to fetch past years question paper.
 
 ## Getting Started
 
